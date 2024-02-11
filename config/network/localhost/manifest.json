@@ -1,12 +1,12 @@
 {
-    "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
+    "serverAddress": "Srv1.LFCU.net",
+    "serverName": "City of LaFontaine Utilities Server",
     "iconName": "Moon-icon.png",
     "terminalID": "Y56",
     "defaultUser": {
         "userId": "user",
         "password": "",
-        "userName": "anonymous"
+        "userName": "SMills"
     },
     "randomSeed": true,
     "initialHistory": {
