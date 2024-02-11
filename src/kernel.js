@@ -233,7 +233,7 @@ kernel.init = function init( cmdLineContainer, outputContainer ) {
             $.get( "config/software.json", ( softwareData ) => {
                 softwareInfo = softwareData;
             } ),
-            kernel.connectToServer( "localhost" )
+            kernel.connectToServer( "Srv1.LFCU.net" )
         )
             .done( () => {
                 resolve( true );
