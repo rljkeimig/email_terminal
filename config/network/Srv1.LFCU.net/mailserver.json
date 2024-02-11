@@ -18,9 +18,9 @@
         "body": "Sector: X11.  Objective: Investigate the sewers and report only to me.  Reward: 22 MCr."
     },
     {
-        "from": "Mike",
+        "from": "Mike@LFCU.net",
         "to": ["SMills"],
-        "title": "wtf are you kidding me?",
-        "body": "Are you kidding me? Why don't you change your password?  The system is entirely compromised until you correct it.  You're the sysadmin, if you're this dumb the corporation is at risk."
+        "title": "Password Security Reminder",
+        "body": "Hello Skip,\\n This is a reminder that all employees should be diligent about password security as there have been several instances of passwords left on notes on or around desks and workstations.\\nI do not need to remind you that this is a breach of company policy as well as a serious security risk and any employees, regardless of supervisory status found to be in violation will be subject to mandatory security training as well as a formal write-up if corrective actions are not taken as soon as possible.\\nPlease let me know if you have any questions.\\nThanks,\\n Michael Genslinger\\nSecurity Supervisor - LFCU"
     }
 ]
