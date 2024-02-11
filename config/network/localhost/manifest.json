@@ -1,7 +1,7 @@
 {
     "serverAddress": "Srv1.LFCU.net",
     "serverName": "City of LaFontaine Utilities Server",
-    "iconName": "City_Utilities_of_LaFontaine.svg.png",
+    "iconName": "City_Utilities_of_LaFontaine.png",
     "terminalID": "CityUtilitySupervisor",
     "defaultUser": {
         "userId": "user",
