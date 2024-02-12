@@ -6,10 +6,22 @@
         "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     },
     {
-        "from": "Software",
-        "to": ["8A73B5", "a"],
-        "title": "undefined",
-        "body": "001100101 011000101 0110 10 01001 01 01110 1001010101"
+        "from": "SMills@LFCU.net",
+        "to": ["SMills", "a"],
+        "title": "Primary Line Down Alerts",
+        "body": "To All LFCU,  There are still severl outstanding LINE DOWN alrets at the following addresses:  -17 Elizabeth Street  -214 Carson St  -11 Columbia ST  -810 Ferry St  -N 11th St  -400 PERRIN AVE  Skip Mills  Utility Supervisor - LFCU"
+    },
+    {
+        "from": "SMills@LFCU.net",
+        "to": ["SMills", "a"],
+        "title": "Primary Line Down Alerts - URGENT CORRECTION",
+        "body": "To All LFCU,  Correction to last email, please disregard alert for 810 Ferry St, area too dangerous to approach until additional work done on street.  Please do not enter area withour approval from myself.  Skip Mills  Utility Supvervisor - LFCU"
+    },
+    {
+        "from": "SMills@LFCU.net",
+        "to": ["SMills", "a"],
+        "title": "Out for day",
+        "body": "To All LFCU Supervisory staff,  I am out for the rest of today, not feelingwell.  Skip Mills  Utility Supvervisor - LFCU"
     },
     {
         "from": "Josephus A. Miller",
